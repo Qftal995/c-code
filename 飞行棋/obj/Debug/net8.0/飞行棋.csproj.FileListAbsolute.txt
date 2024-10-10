@@ -1,0 +1,14 @@
+D:\c#\飞行棋\bin\Debug\net8.0\飞行棋.exe
+D:\c#\飞行棋\bin\Debug\net8.0\飞行棋.deps.json
+D:\c#\飞行棋\bin\Debug\net8.0\飞行棋.runtimeconfig.json
+D:\c#\飞行棋\bin\Debug\net8.0\飞行棋.dll
+D:\c#\飞行棋\bin\Debug\net8.0\飞行棋.pdb
+D:\c#\飞行棋\obj\Debug\net8.0\飞行棋.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\飞行棋\obj\Debug\net8.0\飞行棋.AssemblyInfoInputs.cache
+D:\c#\飞行棋\obj\Debug\net8.0\飞行棋.AssemblyInfo.cs
+D:\c#\飞行棋\obj\Debug\net8.0\飞行棋.csproj.CoreCompileInputs.cache
+D:\c#\飞行棋\obj\Debug\net8.0\飞行棋.dll
+D:\c#\飞行棋\obj\Debug\net8.0\refint\飞行棋.dll
+D:\c#\飞行棋\obj\Debug\net8.0\飞行棋.pdb
+D:\c#\飞行棋\obj\Debug\net8.0\飞行棋.genruntimeconfig.cache
+D:\c#\飞行棋\obj\Debug\net8.0\ref\飞行棋.dll
